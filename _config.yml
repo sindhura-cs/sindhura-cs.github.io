@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sindhura Kommu"
 title_separator          : " "
 name                     : &name "Sindhura Kommu"
-description              : &description "MS Student in CS at Virginia Tech"
+description              : &description "MS Student in CS at Virginia Tech. Interested in Multimodal Machine Learning."
 url                      : https://sindhura-cs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sindhura-cs.github.io"
@@ -83,11 +83,12 @@ author:
   name             : #"Sindhura Kommu"
   avatar           : "profile_sindhu.png"
   bio              : "MS Student in CS at Virginia Tech"
-  location         : "Blacksburg, Virginia, USA"
+  location         : "Blacksburg, Virginia"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "sindhura@vt.edu"
+  CV               : "/files/resume.pdf"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
