@@ -8,6 +8,6 @@ date: 2023-01-01
 location: "Blacksburg, USA"
 ---
 
-I worked as a Graduate Teaching Assistant for Professor [Lifu Huang](https://wilburone.github.io/index.html) in the Machine Learning course for fall 2023. This involved reviewing solutions to assignments, assisting with grading and quizzes. This was also a project based course and I worked as a product manager for 8 different students teams working on diverse projects in Machine Learning. I also held office hours and conducted workshops on Numpy and Pytorch.
+[//]: # (I worked as a Graduate Teaching Assistant for Professor [Lifu Huang]&#40;https://wilburone.github.io/index.html&#41; in the Machine Learning course for fall 2023. This involved reviewing solutions to assignments, assisting with grading and quizzes. This was also a project based course and I worked as a product manager for 8 different students teams working on diverse projects in Machine Learning. I also held office hours and conducted workshops on Numpy and Pytorch.)
 
 
