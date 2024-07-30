@@ -1,3 +1,10 @@
+---
+layout: archive
+title: ""
+permalink: /publications/
+author_profile: true
+---
+
 [//]: # (---)
 
 [//]: # (layout: archive)
@@ -26,13 +33,6 @@
 [//]: # (  {% include archive-single.html %})
 
 [//]: # ({% endfor %})
-
----
-layout: archive
-title: ""
-permalink: /taship/
-author_profile: true
----
 
 Publications
 ======
