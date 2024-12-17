@@ -9,7 +9,7 @@ redirect_from:
 ---
 Hello, there! I am an **MS student (Thesis Track)** in the [Computer Science Department](https://cs.vt.edu/) at [Virginia Tech](https://cs.vt.edu) (VT), advised by [Dr. Xuan Wang](https://xuanwang91.github.io/). 
 I am also a member of the [Sanghani Center for Artificial Intelligence and Data Analytics](https://sanghani.cs.vt.edu/) at VT.
-My primary research interests include NLP, LLMs, Multimodal AI and AI for Healthcare. I am currently working on **Large Language Models (LLMs)** for  biomedical sequences.
+My primary research interests include NLP, LLMs, Multimodal AI and AI for Healthcare. I am currently working on **Foundation Models** for Science.
 
 I obtained my Bachelor's Degree in Computer Science (CS) from Indian institute of Technology, Bombay ([IIT Bombay](https://www.iitb.ac.in/)).
 
