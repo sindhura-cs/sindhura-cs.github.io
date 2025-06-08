@@ -19,8 +19,8 @@ Prior to VT, I worked as a **Senior ML engineer** with **5 years of experience**
 Reviewer : ACL'25, ISMB'25, IEEE BigData'24, EMNLP'24
 
 ## News
-* **[2025.05]** Successfully defended my Master's Thesis on Network-Guided Large-Scale Foundation Models! What an amazing journey! [**Thesis**](https://vtechworks.lib.vt.edu/items/5abc4877-9404-4e68-9864-574a55ecc9f5)
-* **[2025.04]** Honored to be recognised as the finalist for the 2025 Paul E. Torgersen Graduate Student Research Excellence Award! [**TorgersenGradAward**](https://torgersengradaward.vt.domains/)
+* **[2025.05]** Successfully defended my **Master's Thesis** on **Network-Guided Large-Scale Foundation Models**! What an amazing journey! [**Thesis**](https://vtechworks.lib.vt.edu/items/5abc4877-9404-4e68-9864-574a55ecc9f5)
+* **[2025.04]** Honored to be recognised as the finalist for the 2025 **Paul E. Torgersen Graduate Student Research Excellence Award**! [**TorgersenGradAward**](https://torgersengradaward.vt.domains/)
 * **[2025.03]** My first-author paper got accepted to the [**ISMB/ECCB 2025**](https://www.iscb.org/ismbeccb2025/home) main conference proceedings! **(to appear in Bioinformatics journal, acceptance rate: 17.5%)**. Congrats to all my co-authors! Read the preprint on [bioarXiv](https://www.biorxiv.org/content/10.1101/2024.12.16.628715v2)
 * **[2025.02]** Check out our new survey paper on [Trustworthiness of LLMs in Healthcare](https://arxiv.org/abs/2502.15871)!
 * **[2024.10]** Excited and Grateful to receive an award from **NSF NAIRR Pilot** to support our research on **network-regulated large language models** for multi-omics data.
