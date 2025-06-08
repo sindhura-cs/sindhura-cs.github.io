@@ -82,7 +82,7 @@ analytics:
 author:
   name             : #"Sindhura Kommu"
   avatar           : "profile_sindhu.png"
-  bio              : "MS Student in CS at Virginia Tech"
+  bio              : 
   location         : "Blacksburg, Virginia"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
