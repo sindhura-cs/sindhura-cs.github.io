@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello, there! I am an **MS student (Thesis Track)** in the [Computer Science Department](https://cs.vt.edu/) at [Virginia Tech](https://cs.vt.edu) (VT), advised by [Dr. Xuan Wang](https://xuanwang91.github.io/). 
-I am also a member of the [Sanghani Center for Artificial Intelligence and Data Analytics](https://sanghani.cs.vt.edu/) at VT.
-My primary research interests lie in **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, **Multimodal AI**, and AI for Healthcare. My current thesis focuses on developing and fine-tuning **multimodal foundation models** specifically designed for scientific and biological applications.
+Hello, there! I am a recent graduate with an **MS degree (Thesis Track)** in the [Computer Science Department](https://cs.vt.edu/) at [Virginia Tech](https://cs.vt.edu) (VT), where I was advised by [Dr. Xuan Wang](https://xuanwang91.github.io/). 
+I was also a member of the [Sanghani Center for Artificial Intelligence and Data Analytics](https://sanghani.cs.vt.edu/) at VT.
+My primary research interests lie in **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, **Multimodal AI**, and AI for Healthcare. My thesis focused on developing and fine-tuning **multimodal foundation models** specifically designed for scientific and biological applications.
 
 I obtained my Bachelor's Degree in Computer Science (CS) from Indian institute of Technology, Bombay ([IIT Bombay](https://www.iitb.ac.in/)).
 
