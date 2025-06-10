@@ -16,7 +16,7 @@ I obtained my Bachelor's Degree in Computer Science (CS) from Indian institute o
 Prior to VT, I worked as a **Senior ML engineer** with **5 years of experience** in Big Data and Machine Learning. In my role at a [multinational AI company](https://fractal.ai/), I worked with Fortune 500 companies like P&G (Consumer Goods), IdeaForge (Drone Technology), Sky (Telecom Media), DLG (Insurance), and Visa (Financial Services). My work involved leveraging their structured/unstructured data to build intelligent AI systems using cutting-edge machine learning & deep learning frameworks.
 
 ### Academic Service
-Reviewer : ACL'25, ISMB'25, IEEE BigData'24, EMNLP'24, WWW'24
+Reviewer : ACL'25, ISMB'25, IEEE BigData'24, EMNLP'24
 
 ## News
 * **[2025.05]** Successfully defended my **Master's Thesis** on **Network-Guided Large-Scale Foundation Models**! What an amazing journey! [Thesis](https://vtechworks.lib.vt.edu/items/5abc4877-9404-4e68-9864-574a55ecc9f5)
